@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "choreotrial"
+  org = "infyvaish"
+  version = "0.1.0"
+
